@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Diffy",
+		"FileDiffs",
+		"Fix Mac Path",
+		"JSX",
+		"LESS",
+		"Package Control",
+		"SCSS",
+		"tern_for_sublime"
+	]
+}
